@@ -1,0 +1,1 @@
+Repo for notes and exercises for the [scaling book](https://jax-ml.github.io/scaling-book/)
